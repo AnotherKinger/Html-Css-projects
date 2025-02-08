@@ -1,0 +1,26 @@
+h1,h2,p {
+    text-align: center;
+    padding: auto;
+    font-weight: bold;
+    
+    }
+title {
+    text-align: center;
+}
+body {
+    background-image: url(https://i.pinimg.com/236x/2c/90/b2/2c90b2e1f7e88c0e45999b849e4e93de.jpg);
+   
+}
+.menu{
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    border-radius: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
